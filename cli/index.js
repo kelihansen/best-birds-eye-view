@@ -27,11 +27,11 @@ const service = {
                 return body;
             });
     },
-    getInitialDesc(userId) { // TODO: match this with .get('/:id/square')
+    getInitialDesc(userId) {
         return request.get(`${server}/api/users/${userId}/intro`)
             .set('Authorization', token)
             .then(({ body }) => {
-                return body; // return desc from square 1
+                return body;
             });
     },
     getUserCoords(userId) { // TODO: write & remember to take current level into account
