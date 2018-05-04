@@ -109,26 +109,6 @@ class Game {
             })
     }
 
-
-
-
-    // resolveAction(userId, direction) {       
-    //     this.api.getOption(userId, direction)
-    //         .then(body => {
-    //             switch(body.action) {
-    //                 case 'look':
-    //                     lineBreak();
-    //                     console.log(`${body.info} You fly back.`.cyan);
-    //                     this.showOptions(userId);
-    //                     break;
-    //                 case 'interact':
-    //                     this.addToInventory(userId, body.info);
-    //                     break;
-    //                 case 'resolve':
-    //                     this.completeTask(userId, body.info);
-    //             }
-    //         });   
-    }
     addToInventory(userId, itemInfo) {
         this.api.getInventory(userId)
             .then(body => {

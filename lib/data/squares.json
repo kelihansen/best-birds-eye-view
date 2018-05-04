@@ -1,0 +1,66 @@
+[
+    {
+        "coords": {
+            "x": 0,
+            "y": 0
+        },
+        "squareDesc": "Another day dawns for you (User Name), although in the Crowish language you are known by your kin as Caaaaw-Aaack-aaaHH, or Caaw for short. Once again you begin your routine with a quick bath in whatever puddle you can find, and then it’s off to gather a hearty breakfast. The downtown city landscape is coming alive with busy humans who are certain to leave behind tasty treats for you to discover."
+    },
+    {
+        "coords": {
+            "x": 1,
+            "y": 0
+        },
+        "squareDesc": "You glide between mountains of stone and glass, careful not to fly into the deceptively, reflective surfaces by accident. The riverfront stretches across the horizon, criss-crossed back and forth with bridges carrying humans in all manner of strange metal animals. They also sit on the grass and on benches to look at the glistening water, and leave behind them a wake of pizza crusts and cheeto dust to sup upon. However other crows are thick here today and the squabbling between them for each morsel is more than you want to deal with today."
+    },
+    {
+        "coords": {
+            "x": -1,
+            "y": 0
+        },
+        "squareDesc": ""
+    },
+    {
+        "coords": {
+            "x": 0,
+            "y": 1
+        },
+        "squareDesc": "You glide between mountains of stone and glass, careful not to fly into the deceptively, reflective surfaces by accident. The riverfront stretches across the horizon, criss-crossed back and forth with bridges carrying humans in all manner of strange metal animals. They also sit on the grass and on benches to look at the glistening water, and leave behind them a wake of pizza crusts and cheeto dust to sup upon. However other crows are thick here today and the squabbling between them for each morsel is more than you want to deal with today."
+    },
+    {
+        "coords": {
+            "x": 0,
+            "y": -1
+        },
+        "squareDesc": "You glide between mountains of stone and glass, careful not to fly into the deceptively, reflective surfaces by accident. The riverfront stretches across the horizon, criss-crossed back and forth with bridges carrying humans in all manner of strange metal animals. They also sit on the grass and on benches to look at the glistening water, and leave behind them a wake of pizza crusts and cheeto dust to sup upon. However other crows are thick here today and the squabbling between them for each morsel is more than you want to deal with today."
+    },
+    {
+        "coords": {
+            "x": 1,
+            "y": 1
+        },
+        "squareDesc": "A quick rest on a shady branch of bright, pink cherry blossoms is a relief. "
+    },
+    {
+        "coords": {
+            "x": 1,
+            "y": -1
+        },
+        "squareDesc": "You glide between mountains of stone and glass, careful not to fly into the deceptively, reflective surfaces by accident. The riverfront stretches across the horizon, criss-crossed back and forth with bridges carrying humans in all manner of strange metal animals. They also sit on the grass and on benches to look at the glistening water, and leave behind them a wake of pizza crusts and cheeto dust to sup upon. However other crows are thick here today and the squabbling between them for each morsel is more than you want to deal with today."
+    },
+    {
+        "coords": {
+            "x": -1,
+            "y": 1
+        },
+        "squareDesc": "You glide between mountains of stone and glass, careful not to fly into the deceptively, reflective surfaces by accident. The riverfront stretches across the horizon, criss-crossed back and forth with bridges carrying humans in all manner of strange metal animals. They also sit on the grass and on benches to look at the glistening water, and leave behind them a wake of pizza crusts and cheeto dust to sup upon. However other crows are thick here today and the squabbling between them for each morsel is more than you want to deal with today."
+    },
+    {
+        "coords": {
+            "x": -1,
+            "y": -1
+        },
+        "squareDesc": "You glide between mountains of stone and glass, careful not to fly into the deceptively, reflective surfaces by accident. The riverfront stretches across the horizon, criss-crossed back and forth with bridges carrying humans in all manner of strange metal animals. They also sit on the grass and on benches to look at the glistening water, and leave behind them a wake of pizza crusts and cheeto dust to sup upon. However other crows are thick here today and the squabbling between them for each morsel is more than you want to deal with today."
+    },
+
+]

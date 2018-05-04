@@ -51,5 +51,9 @@ describe('Level API', () => {
                 });
             });
     });
+
+    it('gets square information', () => {
+        
+    });
 });
     

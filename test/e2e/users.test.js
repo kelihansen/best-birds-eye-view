@@ -57,5 +57,8 @@ describe('User API', () => {
             });
     });
 
+    it('assigns a signed up user a starting square', () => {
+        
+    });
 
 });
